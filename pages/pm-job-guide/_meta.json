@@ -1,0 +1,128 @@
+{
+  "index": "模块介绍",
+  "preparation": {
+    "title": "求职准备",
+    "type": "menu",
+    "items": {
+      "self-assessment": {
+        "title": "自我评估",
+        "type": "menu",
+        "items": {
+          "skill-assessment": "能力评估",
+          "career-planning": "职业规划",
+          "target-position": "目标岗位",
+          "industry-choice": "行业选择"
+        }
+      },
+      "market-research": {
+        "title": "市场调研",
+        "type": "menu",
+        "items": {
+          "salary": "薪资水平",
+          "company": "公司研究",
+          "requirement": "岗位要求",
+          "trend": "行业趋势"
+        }
+      }
+    }
+  },
+  "resume": {
+    "title": "简历准备",
+    "type": "menu",
+    "items": {
+      "content": {
+        "title": "内容准备",
+        "type": "menu",
+        "items": {
+          "basic-info": "基本信息",
+          "education": "教育背景",
+          "experience": "工作经验",
+          "project": "项目经验",
+          "skill": "技能特长"
+        }
+      },
+      "template": {
+        "title": "简历模板",
+        "type": "menu",
+        "items": {
+          "structure": "结构布局",
+          "format": "格式规范",
+          "highlight": "亮点展示",
+          "optimization": "优化建议"
+        }
+      }
+    }
+  },
+  "interview": {
+    "title": "面试准备",
+    "type": "menu",
+    "items": {
+      "basics": {
+        "title": "基础面试",
+        "type": "menu",
+        "items": {
+          "self-introduction": "自我介绍",
+          "experience": "经历介绍",
+          "motivation": "求职动机",
+          "career-plan": "职业规划"
+        }
+      },
+      "professional": {
+        "title": "专业面试",
+        "type": "menu",
+        "items": {
+          "product-concept": "产品概念",
+          "methodology": "方法论",
+          "case-analysis": "案例分析",
+          "scenario": "场景设计"
+        }
+      },
+      "comprehensive": {
+        "title": "综合面试",
+        "type": "menu",
+        "items": {
+          "leadership": "领导力",
+          "communication": "沟通能力",
+          "problem-solving": "解决问题",
+          "pressure": "抗压能力"
+        }
+      }
+    }
+  },
+  "offer": {
+    "title": "Offer选择",
+    "type": "menu",
+    "items": {
+      "evaluation": {
+        "title": "评估维度",
+        "type": "menu",
+        "items": {
+          "company": "公司发展",
+          "position": "岗位发展",
+          "compensation": "薪酬福利",
+          "culture": "企业文化"
+        }
+      },
+      "negotiation": {
+        "title": "谈判技巧",
+        "type": "menu",
+        "items": {
+          "salary": "薪资谈判",
+          "benefit": "福利谈判",
+          "timing": "入职时间",
+          "other": "其他条件"
+        }
+      }
+    }
+  },
+  "case-study": {
+    "title": "求职案例",
+    "type": "menu",
+    "items": {
+      "success": "成功案例",
+      "failure": "失败案例",
+      "experience": "经验分享",
+      "suggestion": "建议总结"
+    }
+  }
+} 

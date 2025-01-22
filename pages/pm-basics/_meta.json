@@ -1,0 +1,155 @@
+{
+  "index": "模块介绍",
+  "role-definition": {
+    "title": "角色认知",
+    "type": "menu",
+    "items": {
+      "definition": "岗位定义",
+      "collaboration": "协作关系",
+      "daily-work": "日常工作",
+      "competency": "能力要求"
+    }
+  },
+  "basic-skills": {
+    "title": "基本技能",
+    "type": "menu",
+    "items": {
+      "analysis": {
+        "title": "分析能力",
+        "type": "menu",
+        "items": {
+          "business-analysis": "商业分析",
+          "competitive-analysis": "竞品分析",
+          "data-analysis": "数据分析"
+        }
+      },
+      "project": {
+        "title": "项目管理",
+        "type": "menu",
+        "items": {
+          "project-planning": "项目规划",
+          "agile-management": "敏捷管理",
+          "project-execution": "项目执行"
+        }
+      },
+      "prototype": {
+        "title": "原型设计",
+        "type": "menu",
+        "items": {
+          "interaction-design": "交互设计",
+          "information-architecture": "信息架构",
+          "prototyping-tools": "原型工具"
+        }
+      },
+      "user-research": {
+        "title": "用户研究",
+        "type": "menu",
+        "items": {
+          "user-research": "用户调研",
+          "user-persona": "用户画像",
+          "user-journey": "用户旅程"
+        }
+      }
+    }
+  },
+  "methodologies": {
+    "title": "方法论",
+    "type": "menu",
+    "items": {
+      "planning": {
+        "title": "规划方法",
+        "type": "menu",
+        "items": {
+          "strategic-planning": "战略规划",
+          "version-planning": "版本规划",
+          "roadmap-planning": "路线图规划"
+        }
+      },
+      "requirements": {
+        "title": "需求方法",
+        "type": "menu",
+        "items": {
+          "requirement-gathering": "需求收集",
+          "requirement-analysis": "需求分析",
+          "requirement-management": "需求管理"
+        }
+      },
+      "lifecycle": {
+        "title": "生命周期",
+        "type": "menu",
+        "items": {
+          "product-initiation": "产品立项",
+          "product-development": "产品开发",
+          "product-operation": "产品运营",
+          "product-iteration": "产品迭代"
+        }
+      }
+    }
+  },
+  "tools": {
+    "title": "工具使用",
+    "type": "menu",
+    "items": {
+      "collaboration": {
+        "title": "协作工具",
+        "type": "menu",
+        "items": {
+          "document-collaboration": "文档协作",
+          "instant-messaging": "即时沟通",
+          "knowledge-management": "知识管理"
+        }
+      },
+      "analysis": {
+        "title": "分析工具",
+        "type": "menu",
+        "items": {
+          "data-analysis": "数据分析",
+          "tracking-analysis": "埋点分析",
+          "user-analysis": "用户分析"
+        }
+      },
+      "project": {
+        "title": "项目工具",
+        "type": "menu",
+        "items": {
+          "task-management": "任务管理",
+          "progress-management": "进度管理",
+          "document-management": "文档管理"
+        }
+      }
+    }
+  },
+  "documentation": {
+    "title": "文档写作",
+    "type": "menu",
+    "items": {
+      "project": {
+        "title": "项目文档",
+        "type": "menu",
+        "items": {
+          "project-plan": "项目计划",
+          "project-summary": "项目总结",
+          "project-report": "项目汇报"
+        }
+      },
+      "design": {
+        "title": "设计文档",
+        "type": "menu",
+        "items": {
+          "interaction-design": "交互设计",
+          "visual-specification": "视觉规范",
+          "prototype-specification": "原型说明"
+        }
+      },
+      "prd": {
+        "title": "PRD文档",
+        "type": "menu",
+        "items": {
+          "prd-template": "PRD模板",
+          "feature-description": "功能描述",
+          "non-functional": "非功能需求"
+        }
+      }
+    }
+  }
+} 

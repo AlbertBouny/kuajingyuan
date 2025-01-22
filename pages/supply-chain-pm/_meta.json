@@ -1,0 +1,122 @@
+{
+  "index": "模块介绍",
+  "domain": {
+    "title": "领域知识",
+    "type": "menu",
+    "items": {
+      "basics": {
+        "title": "基础概念",
+        "type": "menu",
+        "items": {
+          "definition": "供应链定义",
+          "structure": "供应链结构",
+          "strategy": "供应链战略",
+          "planning": "供应链规划"
+        }
+      },
+      "components": {
+        "title": "核心环节",
+        "type": "menu",
+        "items": {
+          "procurement": "采购管理",
+          "inventory": "库存管理",
+          "warehouse": "仓储管理",
+          "logistics": "物流管理",
+          "distribution": "配送管理"
+        }
+      },
+      "management": {
+        "title": "管理体系",
+        "type": "menu",
+        "items": {
+          "organization": "组织架构",
+          "process": "流程体系",
+          "kpi": "绩效体系",
+          "risk": "风险管理"
+        }
+      }
+    }
+  },
+  "business": {
+    "title": "业务流程",
+    "type": "menu",
+    "items": {
+      "procurement": {
+        "title": "采购业务",
+        "type": "menu",
+        "items": {
+          "supplier": "供应商管理",
+          "sourcing": "寻源管理",
+          "contract": "合同管理",
+          "settlement": "结算管理"
+        }
+      },
+      "warehouse": {
+        "title": "仓储业务",
+        "type": "menu",
+        "items": {
+          "inbound": "入库管理",
+          "outbound": "出库管理",
+          "inventory": "库存管理",
+          "quality": "质量管理"
+        }
+      },
+      "logistics": {
+        "title": "物流业务",
+        "type": "menu",
+        "items": {
+          "transportation": "运输管理",
+          "distribution": "配送管理",
+          "tracking": "跟踪管理",
+          "settlement": "结算管理"
+        }
+      }
+    }
+  },
+  "system": {
+    "title": "系统设计",
+    "type": "menu",
+    "items": {
+      "architecture": {
+        "title": "架构设计",
+        "type": "menu",
+        "items": {
+          "system": "系统架构",
+          "data": "数据架构",
+          "function": "功能架构",
+          "integration": "集成架构"
+        }
+      },
+      "modules": {
+        "title": "模块设计",
+        "type": "menu",
+        "items": {
+          "basic": "基础模块",
+          "business": "业务模块",
+          "management": "管理模块",
+          "report": "报表模块"
+        }
+      },
+      "technology": {
+        "title": "技术实现",
+        "type": "menu",
+        "items": {
+          "platform": "平台选型",
+          "development": "开发框架",
+          "integration": "系统集成",
+          "deployment": "部署方案"
+        }
+      }
+    }
+  },
+  "case-study": {
+    "title": "案例分析",
+    "type": "menu",
+    "items": {
+      "manufacturing": "制造业案例",
+      "retail": "零售业案例",
+      "ecommerce": "电商案例",
+      "logistics": "物流案例"
+    }
+  }
+} 

@@ -1,0 +1,121 @@
+{
+  "index": "模块介绍",
+  "business-model": {
+    "title": "商业模式",
+    "type": "menu",
+    "items": {
+      "platform": "平台模式",
+      "self-operation": "自营模式",
+      "marketplace": "商家模式",
+      "omni-channel": "全渠道模式"
+    }
+  },
+  "core-business": {
+    "title": "核心业务",
+    "type": "menu",
+    "items": {
+      "merchandise": {
+        "title": "商品体系",
+        "type": "menu",
+        "items": {
+          "category": "类目管理",
+          "commodity": "商品管理",
+          "supplier": "供应商管理",
+          "quality": "质量管理"
+        }
+      },
+      "transaction": {
+        "title": "交易体系",
+        "type": "menu",
+        "items": {
+          "order": "订单管理",
+          "payment": "支付管理",
+          "logistics": "物流配送",
+          "after-sales": "售后服务"
+        }
+      },
+      "user": {
+        "title": "用户体系",
+        "type": "menu",
+        "items": {
+          "account": "账户体系",
+          "membership": "会员体系",
+          "rights": "权益体系",
+          "service": "客服体系"
+        }
+      }
+    }
+  },
+  "data-analysis": {
+    "title": "数据分析",
+    "type": "menu",
+    "items": {
+      "metrics": {
+        "title": "核心指标",
+        "type": "menu",
+        "items": {
+          "gmv": "GMV分析",
+          "user-metrics": "用户指标",
+          "conversion": "转化分析",
+          "retention": "留存分析"
+        }
+      },
+      "operation": {
+        "title": "运营分析",
+        "type": "menu",
+        "items": {
+          "promotion": "活动分析",
+          "merchandise": "商品分析",
+          "channel": "渠道分析",
+          "roi": "投产分析"
+        }
+      }
+    }
+  },
+  "operation": {
+    "title": "运营策略",
+    "type": "menu",
+    "items": {
+      "user-operation": {
+        "title": "用户运营",
+        "type": "menu",
+        "items": {
+          "acquisition": "获客策略",
+          "activation": "激活策略",
+          "retention": "留存策略",
+          "monetization": "变现策略"
+        }
+      },
+      "content-operation": {
+        "title": "内容运营",
+        "type": "menu",
+        "items": {
+          "content-planning": "内容规划",
+          "content-production": "内容生产",
+          "content-distribution": "内容分发",
+          "content-evaluation": "内容评估"
+        }
+      },
+      "activity-operation": {
+        "title": "活动运营",
+        "type": "menu",
+        "items": {
+          "promotion-planning": "活动规划",
+          "promotion-execution": "活动执行",
+          "promotion-analysis": "活动分析",
+          "promotion-optimization": "活动优化"
+        }
+      }
+    }
+  },
+  "case-study": {
+    "title": "案例分析",
+    "type": "menu",
+    "items": {
+      "platform": "平台案例",
+      "vertical": "垂直电商",
+      "social": "社交电商",
+      "cross-border": "跨境电商"
+    }
+  }
+} 

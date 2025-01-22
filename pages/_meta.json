@@ -1,0 +1,28 @@
+{
+  "index": "首页",
+  "pm-basics": {
+    "title": "产品经理基础知识",
+    "type": "page"
+  },
+  "ecommerce-pm": {
+    "title": "电商产品经理",
+    "type": "page"
+  },
+  "supply-chain-pm": {
+    "title": "供应链产品经理",
+    "type": "page"
+  },
+  "pm-job-guide": {
+    "title": "产品经理求职",
+    "type": "page"
+  },
+  "about": {
+    "title": "关于",
+    "type": "page"
+  },
+  "contact": {
+    "title": "联系我们",
+    "type": "page",
+    "display": "hidden"
+  }
+}
